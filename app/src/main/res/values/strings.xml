@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies Preview</string>
+    
+    <string name="themoviedb_api_key_v3">76e5c6b5615f8027e79416b12e55aa8a</string>
+    <string name="poster">Poster</string>
+    <string name="movies">Movies</string>
+    <string name="no_internet">Oops! Check your internet \nconnection, and retry.</string>
+    <string name="retry">Retry</string>
+</resources>
